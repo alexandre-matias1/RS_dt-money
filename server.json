@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Lapis",
+      "type": "income",
+      "category": "Papelaria",
+      "price": 610,
+      "createdAt": "2025-02-11T14:32:14.691Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 100,
+      "createdAt": "2025-02-11T14:32:14.691Z"
+    },
+    {
+      "id": 3,
+      "description": "Batata",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 100,
+      "createdAt": "2025-02-11T14:32:14.691Z"
+    },
+    {
+      "description": "eeee",
+      "category": "teste",
+      "price": 100,
+      "type": "income",
+      "createdAt": "2025-02-11T19:52:34.926Z",
+      "id": 4
+    },
+    {
+      "description": "Teste",
+      "category": "111",
+      "price": 111,
+      "type": "outcome",
+      "createdAt": "2025-02-11T19:54:11.768Z",
+      "id": 5
+    },
+    {
+      "description": "aa",
+      "category": "1",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2025-02-11T19:54:24.005Z",
+      "id": 6
+    },
+    {
+      "description": "Ai calicaaa",
+      "category": "VIda",
+      "price": 100,
+      "type": "outcome",
+      "createdAt": "2025-02-11T20:13:38.896Z",
+      "id": 7
+    }
+  ]
+}
